@@ -1,3 +1,12 @@
+import sys
+
+# Força o Python a usar UTF-8 pra imprimir no console
+sys.stdout.reconfigure(encoding='utf-8')
+sys.stderr.reconfigure(encoding='utf-8')
+
+import os
+os.environ["TF_ENABLE_ONEDNN_OPTS"] = "0"
+
 import tensorflow as tf
 from tensorflow.keras.preprocessing.image import ImageDataGenerator
 from tensorflow.keras.models import Sequential
@@ -9,7 +18,7 @@ validation_data_dir = 'dataset/validation'
 
 img_width, img_height = 150, 150
 batch_size = 32
-epochs = 1000  
+epochs = 200 
 num_classes = 5  
 
 train_datagen = ImageDataGenerator(
