@@ -37,3 +37,7 @@ O modelo foi treinado apenas para fins de demonstração, sem uso de dados sens�
 - Normalização das imagens (rescale)
 - Criação automática de batches
 - Carregamento das imagens ou diretórios
+
+Autor: Thayssa Ribeiro Brock
+
+
