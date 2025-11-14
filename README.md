@@ -1,4 +1,4 @@
-# PantryCheck Vision — Classificação Automática de Fotos com Machine Learning
+# PantryCheck — Classificação Automática de Fotos com Machine Learning
 Este projeto foi desenvolvido para automatizar e acelerar o processo de conferência de fotos do Pantry Check em estudos de pesquisa de mercado.
 Antes da automação, a conferência era feita foto por foto, verificando manualmente qual produto aparecia na imagem e depois cruzando com a resposta do questionário — um processo que podia levar até 4 horas por projeto.
 
