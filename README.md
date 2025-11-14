@@ -7,9 +7,9 @@ Com este script de Machine Learning, a classificação passou a ser quase instan
 🚀 Objetivo do Projeto
 O objetivo foi criar um modelo capaz de:
 
-🔍 Classificar automaticamente os produtos presentes nas fotos enviadas pelos participantes.
-📝 Gerar uma lista estruturada com o nome do arquivo e o produto detectado.
-🧪 Apoiar a auditoria do PantryCheck, facilitando a comparação entre fotos e respostas do questionário.
+🔍 Classificar automaticamente os produtos presentes nas fotos enviadas pelos participantes. \
+📝 Gerar uma lista estruturada com o nome do arquivo e o produto detectado. \
+🧪 Apoiar a auditoria do PantryCheck, facilitando a comparação entre fotos e respostas do questionário. \
 
 Este projeto trouxe uma automação decisiva em um processo antes repetitivo e altamente manual.
 
